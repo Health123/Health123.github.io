@@ -1,0 +1,15 @@
+# Site settings
+title: Health123 Status
+email: help@health123.com
+description: > # this means to ignore newlines until "baseurl:"
+  Health123 woes? Worry not, keep yourself up to date with our status
+  page!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://health123.github.io" # the base hostname & protocol for your site
+twitter_username: health123
+
+# Build settings
+markdown: kramdown
+#markdown: redcarpet
+#redcarpet:
+#  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
